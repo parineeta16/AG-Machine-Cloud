@@ -7,23 +7,23 @@ Hence, a system with reasonable rates as well as access is required for the tran
 
 ### System Infrastructure Design
 
-Sensor Layer: Sensor data collection and transfer
-AWS based Cloud Layer: Interface between the sensors and the user gruop
-User Group Layer: Monitor and track the status of sensors.
+Sensor Layer: Sensor data collection and transfer /
+AWS based Cloud Layer: Interface between the sensors and the user gruop /
+User Group Layer: Monitor and track the status of sensors /
 
 ### Technologies Used
 
-FRONTEND
-HTML
-CSS
-BOOTSTRAP
+FRONTEND /
+- HTML
+- CSS
+- BOOTSTRAP
 
-BACKEND
-NODE JS
-EXPRESS JS
+BACKEND /
+- NODE JS
+- EXPRESS JS
 
-DATABASE
-MONGODB
+DATABASE /
+- MONGODB
 
 
 
