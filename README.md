@@ -1,6 +1,6 @@
 # AG-Machine-Cloud
 
-A Cloud-Based Agriculture Machine Service Platform (AG-Machine-Cloud) is a system designed for transportation of agricultural products. The goal of the system is to maintain flexibility, safety and affordability.
+A Cloud-Based Agriculture Machine Service Platform (AG-Machine-Cloud) is a system designed for transportation of agricultural products. The goal of the system is to maintain flexibility, safety, and affordability.
 
 ### System Infrastructure Design
 
